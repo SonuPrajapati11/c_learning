@@ -12,7 +12,6 @@ int main()
 	else if (A < 0) 
 		printf("%d is negative.", A); 
 	else if (A == 0) 
-		printf("%d is zero.", A); 
-
+		printf("%d is 0.", A); 
 	return 0; 
 } 
